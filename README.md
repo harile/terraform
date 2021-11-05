@@ -1,1 +1,1 @@
-# terraform
+# Study terraform in devops course
